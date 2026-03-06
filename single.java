@@ -6,3 +6,6 @@ Learning Git commit process.
 
 Learning Git commit process.
 X
+
+Learning Git commit process.
+
